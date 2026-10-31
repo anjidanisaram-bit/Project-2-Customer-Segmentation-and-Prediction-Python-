@@ -1,0 +1,13 @@
+Metric,Value
+Total Records,235192
+Unique Stocks,49
+Dataset Start Date,2000-01-03
+Dataset End Date,2021-04-30
+Top Average Return Stock,BAJFINANCE
+Top Volatility Stock,VEDL
+ARIMA MAE,65.02
+ARIMA RMSE,110.53
+ARIMA MAPE (%),14.58
+Naive Baseline MAE,64.99
+Naive Baseline RMSE,110.54
+Naive Baseline MAPE (%),14.57

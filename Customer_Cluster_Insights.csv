@@ -1,0 +1,4 @@
+Customer Cluster,Total_Records,Unique_Customers,Average_Age,Average_Income,Average_Premium,Average_Coverage,Business Segment
+0,13707,12688,44.15,43025.34,3564.92,618842.29,Medium Premium Customers
+1,18185,16376,44.21,89401.26,1588.89,489524.67,Low Premium Customers
+2,21611,19150,44.07,102394.31,3887.78,415069.76,High Premium Customers
